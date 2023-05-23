@@ -11,6 +11,13 @@
   bottom:6%;
   left: 76.5%;
   }
+  nav{
+    display: flex;
+  }
+  nav a{
+    text-decoration: none;
+    margin: 0 30px;
+  }
   
   #legend h4 {
   margin: 0 0 10px;
