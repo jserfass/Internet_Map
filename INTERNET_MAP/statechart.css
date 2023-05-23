@@ -4,6 +4,14 @@ body {
   background: #fff;
 }
 
+nav{
+  display: flex;
+}
+nav a{
+  text-decoration: none;
+  margin: 0 30px;
+}
+
 .wrapper {
   max-width: 800px;
   margin: 50px auto;
