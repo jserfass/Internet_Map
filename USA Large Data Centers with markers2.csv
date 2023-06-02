@@ -1,0 +1,21 @@
+Company,Data Center Location,Data Generated Per Day (TB), Data Equivalent (DVDs) ,Latitude,Longitude,Number of countries served,Continents served
+Amazon,"Douglas County, Georgia",2560,"2,500,000",33.621369,-84.427543,245+,"Africa, Americas, Asia, Europe, Oceania"
+Apple,"Maiden, North Carolina",700,"700,000",35.389622,-80.650968,150+,"Africa, Americas, Asia, Europe, Oceania"
+Cousins Properties,"Atlanta, Georgia",400,"400,000",33.748893,-84.387982,100+,Americas
+Dell,"Round Rock, Texas",20,"20,000",30.267175,-97.742893,150+,"Americas, Europe, Asia"
+Digital Realty Trust,"Chicago, Illinois",250,"250,000",41.878117,-87.627757,150+,"Americas, Europe, Asia"
+Digital Realty Trust,"Phoenix, Arizona",50,"50,000",33.448377,-112.074037,150+,"Americas, Europe, Asia"
+Digital Realty Trust,"Portland, Oregon",25,"25,000",45.523128,-122.676372,150+,"Americas, Europe, Asia"
+eBay,"Dublin, Ohio",250,"250,000",40.075628,-82.904074,190+,"Americas, Europe, Asia"
+Facebook,"Altoona, Iowa",800,"800,000",41.818068,-95.687735,200+,"Africa, Americas, Asia, Europe, Oceania"
+Google,"Council Bluffs, Iowa",1025,"1,000,000",41.568985,-95.844307,175+,"Africa, Americas, Asia, Europe, Oceania"
+Hewlett-Packard,"San Jose, California",25,"25,000",37.309837,-121.891899,150+,"Americas, Europe, Asia"
+Hopone Internet Corp,"Ashburn, Virginia",100,"100,000",39.049366,-77.485191,100+,Americas
+IBM,"East Fishkill, New York",400,"400,000",41.419359,-73.90272,175+,"Americas, Europe, Asia"
+Infomart,"Dallas, Texas",75,"75,000",32.775226,-96.806225,100+,Americas
+Microsoft,"Quincy, Washington",1536,"1,500,000",47.65104,-122.306296,175+,"Americas, Europe, Asia"
+Oracle,"Ashburn, Virginia",600,"600,000",39.049366,-77.485191,175+,"Americas, Europe, Asia"
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
