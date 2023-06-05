@@ -7,29 +7,32 @@ body {
    vertical-align: baseline;
 }
 
-   body {background-image: url('northcascades.JPG');
+   body {background-image: url('pictures/background2.png');
    background-repeat: no-repeat;
    background-attachment: fixed;
    background-size: cover;
 }
 
+div#references {
+  width: 100%;
+}
 
 #map {
    position: relative;
-   width: 100%;
+   width: 95%;
    top: 0;
    bottom: 0;   
    }
   
    #menu {
-      background: #fff;
+      background: black;
       position: absolute; 
       top: 1.5%;
       left: 1%;
       z-index: 1;
       border-radius: 3px;
       width: fit-content;
-      border: 1px solid rgba(0, 0, 0, 0.4);
+      border: 1px solid rgb(246, 250, 4);
       font-family: 'Open Sans', sans-serif;
       }
       
@@ -41,7 +44,7 @@ body {
       padding: 0;
       padding: 10px;
       text-decoration: none;
-      border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+      border-bottom: 1px solid rgb(246, 250, 4);
       text-align: center;
       }
       
@@ -50,7 +53,7 @@ body {
       }
       
       #menu a:hover {
-      background-color: #f8f8f8;
+      background-color: black;
       color: #404040;
       }
       
@@ -65,79 +68,55 @@ body {
 
    h1 {
       font-family: Helvetica Neue, Arial, sans-serif;
-      color: #0066ff;
+      color: whitesmoke;
       font-size: 80px;
-      text-shadow: 6px 6px 15px white;
+      text-shadow: 6px 6px 15px rgb(246, 250, 4);
       font-weight: bold;
       text-align: center;
    }
    h2 {
       font-family: Helvetica Neue, Arial, sans-serif;
-      color: #0066ff;
+      color: whitesmoke;
       font-size: 40px;
-      text-shadow: 3px 3px 8px white;
+      text-shadow: 3px 3px 8px rgb(246, 250, 4);
       font-weight: bold;
       text-align: center;
       align-content: center;
-      width: 100%;
    }
    p1 {
       font-family: Helvetica Neue, Arial, sans-serif;
-		color: #0066ff;
+		color: white;
 		font-size: 17px;
-		text-shadow: 2px 2px 5px white;
 		font-weight: bold;
-		text-align: left;
-      margin-inline: 1;	
-      width:100%;			
+		text-align: center;
+      margin-inline: 1;			
 						}
 
    p2 {
       font-family: Helvetica Neue, Arial, sans-serif;
-		color: #0066ff;
+		color: whitesmoke;
 		font-size: 17px;
 		text-shadow: 2px 2px 5px white;
 		font-weight: bold;
 		text-align: center;
-      margin-inline: 1;	
-      width:100%;			
+      margin-inline: 1;				
 						}               
 
-   div.transbox {
-      margin: 20px;
-      background-color: #ffffff;
-      border: 1px solid #0066ff;
-      opacity: 0.9;
-      width: 95%;
-      padding: 5px;
-      text-align: left;
-                   } 
-
-   div.transbox2 {
-      margin: 20px;
-      background-color: #ffffff;
-      border: 1px solid #0066ff;
-      opacity: 0.9;
-      width: 95%;
-      padding: 5px;
-      text-align: center;
-                   } 
-
    div#references{
-      background-color: white;
-      color: blue;
+      background-color: black;
+      color: whitesmoke;
+      border: 1px solid rgb(246, 250, 4);
       padding-bottom: 10px;
       padding-top: 10px;
       opacity: .9;
       text-align: center;
-      width: 100%;
       margin-top: 20px;
       margin-bottom: 20px;
       height:fit-content
                    }
                    
       a:link{
-      color: blue;
+      color: rgb(3, 104, 138);
       }
 
             
